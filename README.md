@@ -7,17 +7,15 @@
 
 > 力扣的题解记录（JavaScript）
 
-
 ## 调试
 
-提供了 .vscode 配置文件，在 vscode 中选择「小爬虫」图标，点击启动程序，即可启动断点调试。
+在相应的目录下找到相应的算法实现文件，在 `vscode` 中选择「小爬虫」图标，点击`Run and Debug`启动程序，即可启动断点调试。
 
 ## 思路
 
-思路会记录在本仓库的 Issues 中，按照 label 进行分类。比如想查看 「DFS」 分类下的问题，那么选择标签进行筛选即可。
+思路会记录在本仓库的 `Issues` 中，按照 `label` 进行分类。比如想查看 `「DFS」` 分类下的问题，那么选择标签进行筛选即可。
 
 ## 目录
-
 
 ### 例题详解
 
@@ -25,9 +23,9 @@
 
 [分发饼干-455]()
 
-[N皇后-51]()
+[N 皇后-51]()
 
-[单词搜索-79]()
+[单词搜索-79](https://github.com/retech-fe/leetcode-javascript/issues/4)
 
 [二进制手表-401]()
 
@@ -69,7 +67,7 @@
 
 [解数独-37]()
 
-[N皇后-51]()
+[N 皇后-51]()
 
 [单词搜索-79]()
 
@@ -93,7 +91,7 @@
 
 [分割回文串-131]()
 
-[复原IP地址-93]()
+[复原 IP 地址-93]()
 
 [电话号码的字母组合-17]()
 
@@ -167,7 +165,7 @@
 
 ### 前缀和
 
-[和为K的子数组-560]()
+[和为 K 的子数组-560]()
 
 ### 位运算
 
@@ -213,11 +211,11 @@
 
 [两两交换链表中的节点-24]()
 
-[删除链表的倒数第N个节点-19]()
+[删除链表的倒数第 N 个节点-19]()
 
-[删除链表的节点-面试题18](0)
+[删除链表的节点-面试题 18](0)
 
-[反转链表II-92]()
+[反转链表 II-92]()
 
 [反转链表 206]()
 
@@ -333,7 +331,6 @@
 
 [二分查找-704]()
 
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/retech-fe/leetcode-javascript/issues).
@@ -341,4 +338,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
