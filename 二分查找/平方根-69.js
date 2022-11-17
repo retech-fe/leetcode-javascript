@@ -23,7 +23,7 @@ var mySqrt = function (x) {
     }
 
     if (pow < x) {
-      // 在二分过程中每次发现 middle * middle < x 的情况，就把这个 middle 值记录为 ans，一直更新为新的比较小的数值
+      // 在二分过程中每次发现 middle * middle < x 的情况，就把这个 middle 值记录为 ans，一直更新为新数值
       ans = middle;
       // 中间数平方小于x，左边数值右移
       left = middle + 1;
