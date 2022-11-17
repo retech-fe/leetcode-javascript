@@ -25,7 +25,7 @@
 
 N 皇后-51
 
-单词搜索-79](https://github.com/retech-fe/leetcode-javascript/issues/4)
+[单词搜索-79](https://github.com/retech-fe/leetcode-javascript/issues/4)
 
 二进制手表-401
 
